@@ -26,5 +26,5 @@ V aktuálnej verzii teda dostávame správne spracované dáta do systému, ktor
 rozumné výsledky. Počas práce systém prešiel viacerými zmenami, vďaka ktorým sme zdokonalili
 správanie, zjednodušili integráciu do herného prostredia a implementovali replikáciu,
 vďaka ktorej je systém pripravený na prácu v multiplayer prostrediach. Je tiež pripravený
-na prácu s viacjazyčnými lokalizáciami a v súčastnej verzii podporuje spoluprácu s hernými objektami
-a má predpripravenú podporu pre zvukové repliky, ktoré ešte nie sú plne inplementované.
+na prácu s viacjazyčnými lokalizáciami a v súčastnej verzii podporuje spoluprácu s hernými objektami.
+Má predpripravenú podporu pre zvukové repliky, ktoré ešte nie sú plne inplementované.
