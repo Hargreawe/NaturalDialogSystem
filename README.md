@@ -3,7 +3,7 @@
 Popis práce:
 Ciel’om tejto práce je vytvorenie systému so stochastickým dialógovým
 správaním pre herné systémy. Je navrhnutý pre prostredie Unreal Engine
-4 ako herný plugin. Jeho súˇcast’ou je podpora pre rôzne platformy (PC,
+4 ako herný plugin. Jeho súčast’ou je podpora pre rôzne platformy (PC,
 konzoly, mobily, ...). Jadro aplikácie bude vytvorené v jazyku C++ s pod-
 porou použitia v Bleuprint kóde (d’alej ako BP). Aplikácia je navrhnutá
 modulárne, aby používatel’ mohol funkcionalitu jednoducho upravit’ bez
