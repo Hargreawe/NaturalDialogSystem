@@ -10,8 +10,8 @@ v Bleuprint kóde. Aplikácia je navrhnutá modulárne, aby používatel’
 mohol funkcionalitu jednoducho upravit’ bez zásahu do jadra systému.
 
    Úlohou systému bude vyhl’adávanie najvhodnejších odpovedí pre vstupy
-hráča. V práci bude integrovaný modulárny systém, ktorý umožní vývo-
-járovi vybrat’ si algoritmus pre vyhl’adávanie, prípadne generovanie, od-
+hráča. V práci bude integrovaný modulárny systém, ktorý umožní vývojárovi
+vybrat’ si algoritmus pre vyhl’adávanie, prípadne generovanie, od-
 povedí. Jeho súčast’ou bude implementovaný predvolený algoritmus, za-
 ložený na vyhl’adávaní pomocou kl’účových slov (keywords analysis).
 
