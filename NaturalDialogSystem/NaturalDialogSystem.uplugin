@@ -1,0 +1,22 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "NaturalDialogSystem",
+  "Description": "Allows you to create libraries, which are used to create ....",
+  "Category": "Other",
+  "CreatedBy": "Michal Chamula",
+  "CreatedByURL": "https://github.com/Hargreawe/NaturalDialogSystem",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "Installed": true,
+  "Modules": [
+    {
+      "Name": "NaturalDialogSystem",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
